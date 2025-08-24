@@ -1,33 +1,30 @@
 {
   "id": 4,
   "created_at": "2025-01-23T00:00:00Z",
-  "seo_title": "Alamy Downloader - Free Download Tool",
-  "seo_description": "Extract Alamy stock photos in full resolution without watermarks or restrictions",
+  "seo_title": "Alamy Downloader - Free Content Download Tool",
+  "seo_description": null,
   "product_page_url": "https://store.serp.co/product-details/product/alamy-downloader",
   "purchase_url": "https://serp.ly/alamy-downloader",
   "store_product_id": null,
   "name": "Alamy Downloader",
   "tagline": "Extract Alamy stock photos in full resolution without watermarks or restrictions",
-  "featured_image": "images/featured.jpg",
-  "featured_image_gif": "images/featured.gif",
+  "featured_image": "https://raw.githubusercontent.com/serpapps/alamy-downloader/assets/images/alamy-downloader.jpg",
+  "featured_image_gif": "https://raw.githubusercontent.com/serpapps/alamy-downloader/assets/images/alamy-downloader.gif",
   "github_repo_url": "https://github.com/serpapps/alamy-downloader",
   "github_repo_tags": [
-    "alamy-downloader",
-    "downloader",
-    "automation",
-    "tools"
+    "alamy-downloader"
   ],
   "github_gist_url": null,
   "features": [
-    "Watermark removal",
-    "Full resolution access",
-    "Batch download mode",
-    "IPTC metadata support",
-    "Editorial content access",
-    "Historical archive downloads"
+    "Stream-to-file conversion",
+    "HD quality downloads",
+    "Batch download support",
+    "Resume interrupted downloads",
+    "No watermarks",
+    "Content extraction"
   ],
   "chrome_web_store_url": null,
-  "description": "Alamy Downloader is a powerful tool that helps you extract alamy stock photos in full resolution without watermarks or restrictions. Built with modern technologies, it provides a seamless experience for downloading and managing content.",
+  "description": "Alamy Downloader is a powerful tool that helps you download content from Alamy instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.",
   "product_video": null,
   "related_videos": null,
   "changelog": null,
@@ -51,17 +48,15 @@
   "status": "live",
   "technologies": [
     "Python",
-    "OpenCV",
-    "Requests",
-    "Pillow"
+    "JavaScript",
+    "Node.js",
+    "Automation"
   ],
-  "serpco_product_page_link": "https://store.serp.co/product-details/product/alamy-downloader",
-  "serpai_product_page_link": null,
+  "serpco_product_page_link": "https://serp.co/products/alamy-downloader/reviews/",
+  "serpai_product_page_link": "https://serp.ai/products/alamy-downloader/reviews/",
   "file_formats": null,
   "categories": [
-    "Stock Photography",
-    "Image Tools",
-    "Media Downloaders"
+    "image hosting"
   ],
   "extraction_targets": null,
   "content_medium": null,
@@ -72,22 +67,18 @@
     "devinschumacher"
   ],
   "funding_links_liberapay": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_opencollective": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_custom": [
     "https://serpapps.github.io/alamy-downloader",
     "https://devinschumacher.com/alamy-downloader",
-    "https://serp.co/products/alamy-downloader/reviews/"
+    "https://serp.co/products/alamy-downloader/",
+    "https://github.com/sponsors/devinschumacher"
   ],
   "keywords": [
-    "alamy-downloader",
-    "alamy",
-    "downloader",
-    "downloader",
-    "free",
-    "tool"
+    "alamy downloader"
   ]
 }
