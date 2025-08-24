@@ -2,9 +2,9 @@
 
 > Extract Alamy stock photos in full resolution without watermarks or restrictions
 
-![Alamy Downloader](https://raw.githubusercontent.com/serpapps/alamy-downloader/assets/images/featured.gif)
+![Alamy Downloader](https://raw.githubusercontent.com/serpapps/alamy-downloader/assets/images/alamy-downloader.gif)
 
-Alamy Downloader is a powerful tool that helps you extract alamy stock photos in full resolution without watermarks or restrictions. Built with modern technologies, it provides a seamless experience for downloading and managing content.
+Alamy Downloader is a powerful tool that helps you download content from Alamy instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.
 
 ## 🔗 Links
 
@@ -22,12 +22,12 @@ Alamy Downloader is a powerful tool that helps you extract alamy stock photos in
 
 ## Features
 
-- Watermark removal
-- Full resolution access
-- Batch download mode
-- IPTC metadata support
-- Editorial content access
-- Historical archive downloads
+- Stream-to-file conversion
+- HD quality downloads
+- Batch download support
+- Resume interrupted downloads
+- No watermarks
+- Content extraction
 
 ## Installation Instructions
 
@@ -47,11 +47,17 @@ Alamy Downloader is a powerful tool that helps you extract alamy stock photos in
 ## Technologies
 
 - Python
-- OpenCV
-- Requests
-- Pillow
+- JavaScript
+- Node.js
+- Automation
 
 ## More Info
 
 - 📁 Repository [here](https://github.com/serpapps/alamy-downloader)
+
+<details>
+<summary>Keywords</summary>
+
+alamy downloader
+</details>
 
